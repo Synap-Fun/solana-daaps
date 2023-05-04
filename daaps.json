@@ -1,3 +1,18 @@
 {
-    "KEY":{"NAME":"","LOGO_URI":"","APP_URL":""}
+    "KEY":{"NAME":"","LOGO_URI":"","APP_URL":"", "USE_CASE":"", "CATEGORY":""},
+    "ALDRIN":{"NAME":"Aldrin Exchange", "LOGO_URI":"https://raw.githubusercontent.com/Synap-Fun/solana-daaps/master/Projects/ALDRIN/logo.jpg", "APP_URL":"https://aldrin.com/", "USE_CASE":"DEFI", "CATEGORY":"DEX"},
+    "ATADIA":{"NAME":"Atadia","LOGO_URI":"https://raw.githubusercontent.com/Synap-Fun/solana-daaps/master/Projects/ATADIA/logo.jpg","APP_URL":"https://www.atadia.io/", "USE_CASE":"NFT", "CATEGORY":"ANALYTICS"},
+    "BIFROST":{"NAME":"Bifrost","LOGO_URI":"https://raw.githubusercontent.com/Synap-Fun/solana-daaps/master/Projects/BIFROST/logo.jpg","APP_URL":"https://bifrost.blocksmithlabs.io/", "USE_CASE":"NFT", "CATEGORY":"LAUNCHPAD"},
+    "BLOCKSMITH_LABS":{"NAME":"Blocksmith Labs","LOGO_URI":"https://raw.githubusercontent.com/Synap-Fun/solana-daaps/master/Projects/BLOCKSMITH_LABS/logo.jpg","APP_URL":"https://www.blocksmithlabs.io/", "USE_CASE":"NFT", "CATEGORY":"PROJECT"},
+    "CANDY_MACHINE_V3":{"NAME":"Metaplex CM","LOGO_URI":"https://raw.githubusercontent.com/Synap-Fun/solana-daaps/master/Projects/CANDY_MACHINE_V3/logo.jpg","APP_URL":"https://www.metaplex.com/", "USE_CASE":"NFT", "CATEGORY":"CANDY_MACHINE"},
+    "CANDY_MACHINE_V2":{"NAME":"Metaplex CM","LOGO_URI":"https://raw.githubusercontent.com/Synap-Fun/solana-daaps/master/Projects/CANDY_MACHINE_V3/logo.jpg","APP_URL":"https://www.metaplex.com/", "USE_CASE":"NFT", "CATEGORY":"CANDY_MACHINE"},
+    "CANDY_MACHINE_V1":{"NAME":"Metaplex CM","LOGO_URI":"https://raw.githubusercontent.com/Synap-Fun/solana-daaps/master/Projects/CANDY_MACHINE_V3/logo.jpg","APP_URL":"https://www.metaplex.com/", "USE_CASE":"NFT", "CATEGORY":"CANDY_MACHINE"},
+    "COINBASE":{"NAME":"Coinbase","LOGO_URI":"https://raw.githubusercontent.com/Synap-Fun/solana-daaps/master/Projects/COINBASE/logo.png","APP_URL":"https://www.coinbase.com/", "USE_CASE":"EXCHANGE", "CATEGORY":"CEX"},
+    "CORAL_CUBE":{"NAME":"Coral Cube","LOGO_URI":"https://raw.githubusercontent.com/Synap-Fun/solana-daaps/master/Projects/CORAL_CUBE/logo.jpg","APP_URL":"https://coralcube.io/", "USE_CASE":"NFT", "CATEGORY":"AGGREGATOR"},
+    "CREMA":{"NAME":"Cream finance","LOGO_URI":"https://raw.githubusercontent.com/Synap-Fun/solana-daaps/master/Projects/CREMA/logo.jpg","APP_URL":"https://app.crema.finance/", "USE_CASE":"DEFI", "CATEGORY":"DEX"},
+    "CROPPER":{"NAME":"Copper finance","LOGO_URI":"https://raw.githubusercontent.com/Synap-Fun/solana-daaps/master/Projects/CROPPER/logo.jpg","APP_URL":"https://cropper.finance/", "USE_CASE":"DEFI", "CATEGORY":"LAUCHPAD"},
+    "CYKURA":{"NAME":"Cykura","LOGO_URI":"https://raw.githubusercontent.com/Synap-Fun/solana-daaps/master/Projects/CYKURA/logo.jpg","APP_URL":"https://app.cykura.io/", "USE_CASE":"DEFI", "CATEGORY":"DEX"},
+    "DEGODS":{"NAME":"DeGods","LOGO_URI":"https://raw.githubusercontent.com/Synap-Fun/solana-daaps/master/Projects/DEGODS/logo.jpg","APP_URL":"https://degods.com/", "USE_CASE":"NFT", "CATEGORY":"COMMUNITY"},
+    "EXCHANGE_ART":{"NAME":"Exchange art","LOGO_URI":"https://raw.githubusercontent.com/Synap-Fun/solana-daaps/master/Projects/EXCHANGE_ART/logo.jpg","APP_URL":"https://exchange.art/", "USE_CASE":"NFT", "CATEGORY":"MARKETPLACE_1_ON_1"},
+    "FOXY":{"NAME":"Foxy swap","LOGO_URI":"https://raw.githubusercontent.com/Synap-Fun/solana-daaps/master/Projects/FOXY/logo.jpg","APP_URL":"https://famousfoxes.com/swap", "USE_CASE":"NFT", "CATEGORY":"SWAP"}
 }
